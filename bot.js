@@ -11,9 +11,10 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Brodcast Bot ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Zayed City RP`,"")
-client.user.setStatus("ONLINE")
+client.user.setGame(``,"")
+client.user.setStatus("online")
 });
+
 
 
 
