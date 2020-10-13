@@ -12,7 +12,7 @@ client.on('ready', () => {
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`Zayed City RP`,"")
-client.user.setStatus("online")
+client.user.setStatus("ONLINE")
 });
 
 
